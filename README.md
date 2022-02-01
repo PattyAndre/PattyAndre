@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Patty
-- 👀 Front end developer
-- 🌱 ******************** 💞️ ✨
+Hi, I’m Patty 💫
+I love learn everything 
 
